@@ -182,7 +182,6 @@ Made with Electron.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Pomodoro timer.
 - [Pretzel](https://github.com/amiechen/pretzel) - Show and search keyboard shortcuts for the current app.
 
-
 ### Closed Source
 
 - [GitKraken](http://www.gitkraken.com) - Git client.
